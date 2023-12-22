@@ -1,0 +1,34 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "r12t",
+	"icon": "https://micro.blog/r12t/avatar.jpg",
+	"home_page_url": "https://r12t.micro.blog/",
+	"feed_url": "https://r12t.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://r12t.micro.blog/2023/12/06/woordle-lucky-nummer.html",
+				
+				"content_html": "<p>Woordle 900 2/6</p>\n<p>🟨🟨🟨⬛⬛<br>\n🟩🟩🟩🟩🟩</p>\n<p>Lucky! Nummer 900.</p>\n",
+				"content_text": "Woordle 900 2/6\n\n🟨🟨🟨⬛⬛  \n🟩🟩🟩🟩🟩\n\nLucky! Nummer 900.\n",
+				"date_published": "2023-12-06T05:46:26+01:00",
+				"url": "https://r12t.micro.blog/2023/12/06/woordle-lucky-nummer.html"
+			},
+			{
+				"id": "http://r12t.micro.blog/2023/12/05/woordle-beetje-geluk.html",
+				
+				"content_html": "<p>Woordle 899 2/6</p>\n<p>🟨🟨⬛⬛⬛<br>\n🟩🟩🟩🟩🟩</p>\n<p>Beetje geluk afgedwongen.</p>\n",
+				"content_text": "Woordle 899 2/6\r\n\r\n🟨🟨⬛⬛⬛  \r\n🟩🟩🟩🟩🟩\r\n\r\nBeetje geluk afgedwongen.\n",
+				"date_published": "2023-12-05T19:59:33+01:00",
+				"url": "https://r12t.micro.blog/2023/12/05/woordle-beetje-geluk.html"
+			},
+			{
+				"id": "http://r12t.micro.blog/2023/12/05/back-at-microblog.html",
+				
+				"content_html": "<p>Back at Micro.blog. This is the obligatory &lsquo;hello world&rsquo; post.</p>\n",
+				"content_text": "Back at Micro.blog. This is the obligatory 'hello world' post.\n",
+				"date_published": "2023-12-05T06:50:19+01:00",
+				"url": "https://r12t.micro.blog/2023/12/05/back-at-microblog.html"
+			}
+	]
+}
